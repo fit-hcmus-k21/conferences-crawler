@@ -1,28 +1,1772 @@
 [
-{"name": "Gartner CIO Leadership Forum", "start_date": "2024-03-25", "location": "Hollywood, FL", "topic": "CIOs & IT Executives", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/cio-us-east", "speakers": [{"name": "Shawn Achor", "major": "Harvard Researcher, Author and Positive Psychology Expert", "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-east/en/conferences/na/cio-us-east/speakers/featured-speakers/shawn-achor"}, {"name": "Carla Harris", "major": "Senior Client Advisor", "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-east/en/conferences/na/cio-us-east/speakers/featured-speakers/carla-harris"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/cio-us-east/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, March 24, 2024"}, {"day": "Day 2 / Monday, March 25, 2024"}, {"day": "Day 3 / Tuesday, March 26, 2024"}]}, "track": [{"track_title": "CIO as CXO"}, {"track_title": "CIO as Functional Leader"}], "register_url": "https://www.gartner.com/en/conferences/na/cio-us-east/register"},
-{"name": "Gartner Security & Risk Management Summit", "start_date": "2024-02-12", "location": "Dubai, UAE", "topic": "Security & Risk Management", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae", "speakers": [{"name": "Fredrik Haren", "major": "The Creativity Explorer", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/en/conferences/emea/security-risk-management-uae/speakers/featured-speakers/fredrik-haren"}, {"name": "Christopher Mixter", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/en/conferences/emea/security-risk-management-uae/speakers/featured-speakers/christopher-mixter"}, {"name": "Jie Zhang", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/en/conferences/emea/security-risk-management-uae/speakers/featured-speakers/jie-zhang"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 11 February, 2024"}, {"day": "Day 2 / Monday, 12 February, 2024"}, {"day": "Day 3 / Tuesday, 13 February, 2024"}]}, "track": [{"track_title": "Day 1 / Sunday, 11 February, 2024"}, {"track_title": "Day 2 / Monday, 12 February, 2024"}, {"track_title": "Day 3 / Tuesday, 13 February, 2024"}], "register_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/register"},
-{"name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference", "start_date": "2024-05-20", "location": "Sydney, Australia", "topic": "IT Infrastructure & Operations", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia", "speakers": [{"name": "Padraig Byrne", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/en/conferences/apac/infrastructure-operations-cloud-australia/speakers/featured-speakers/padraig-byrne"}, {"name": "Hassan Ennaciri", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/en/conferences/apac/infrastructure-operations-cloud-australia/speakers/featured-speakers/hassan-ennaciri"}, {"name": "Autumn Stanish", "major": "Sr Principal Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/en/conferences/apac/infrastructure-operations-cloud-australia/speakers/featured-speakers/autumn-stanish"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, May 19, 2024"}, {"day": "Day 2 / Monday, May 20, 2024"}, {"day": "Day 3 / Tuesday, May 21, 2024"}]}, "track": [{"track_title": "Track A: Sparking Innovation"}, {"track_title": "Track B: Accelerating Cloud Value"}, {"track_title": "Track C: Engineering Platforms"}, {"track_title": "Track D: Enhancing Operations"}, {"track_title": "Track E: Transforming Leadership, Skills and the Organization"}, {"track_title": "Spotlight Track: Sourcing, Procurement and Vendor Management"}, {"track_title": "Spotlight Track: Embedding Security"}], "register_url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/register"},
-{"name": "Gartner CIO Leadership Forum", "start_date": "2024-04-30", "location": "Sydney, Australia", "topic": "CIOs & IT Executives", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/cio-australia", "speakers": [{"name": "Dave Aron", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/dave-aron"}, {"name": "Chris Ganly", "major": "VP, Team Manager", "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/chris-ganly"}, {"name": "Sharon Hakkennes", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/sharon-hakkennes"}, {"name": "Neha Kumar", "major": "Sr Director, Advisory", "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/neha-kumar"}, {"name": "Christie Struckman", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/christie-struckman"}, {"name": "Graham Waller", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/graham-waller"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/agenda/day", "agenda_days": [{"day": "Day 1 / Monday, 29 April, 2024"}, {"day": "Day 2 / Tuesday, 30 April, 2024"}, {"day": "Day 3 / Wednesday, 01 May, 2024"}]}, "track": [{"track_title": "CIO as CXO"}, {"track_title": "CIO as Functional Leader"}], "register_url": "https://www.gartner.com/en/conferences/apac/cio-australia/register"},
-{"name": "Gartner Data & Analytics Summit", "start_date": "2024-04-24", "location": "Mumbai, India", "topic": "Data & Analytics", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/data-analytics-india", "speakers": [{"name": "Sumit Agarwal", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/sumit-agarwal"}, {"name": "Ian Bertram", "major": "Managing Vice President", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/ian-bertram"}, {"name": "Chirag Dekate", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/chirag-dekate"}, {"name": "Anirudh Ganeshan", "major": "Principal Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/anirudh-ganeshan"}, {"name": "Gareth Herschel", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/gareth-herschel"}, {"name": "Debra Logan", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/debra-logan"}, {"name": "Donna Medeiros", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/donna-medeiros"}, {"name": "Carlton Sapp", "major": "Managing Vice President", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/carlton-sapp"}, {"name": "Robert Thanaraj", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/robert-thanaraj"}, {"name": "Shubhangi Vashisth", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/shubhangi-vashisth"}, {"name": "Ehtisham Zaidi", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/ehtisham-zaidi"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/agenda/day", "agenda_days": [{"day": "Day 1 / Tuesday, 23 April, 2024"}, {"day": "Day 2 / Wednesday, 24 April, 2024"}, {"day": "Day 3 / Thursday, 25 April, 2024"}]}, "track": [{"track_title": "Track A: Leadership"}, {"track_title": "Track B: Business Value"}, {"track_title": "Track C: AI"}, {"track_title": "Track D: Analytics"}, {"track_title": "Track E: Data Management"}, {"track_title": "Track F: Trust, Governance and Culture"}], "register_url": "https://www.gartner.com/en/conferences/apac/data-analytics-india/register"},
-{"name": "Gartner CIO Leadership Forum", "start_date": "2024-03-12", "location": "London, U.K.", "topic": "CIOs & IT Executives", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/cio-uk", "speakers": [{"name": "Dr. Paul Redmond", "major": "Director of Student Experience and Enhancement University of Liverpool, England", "bio_detail": "https://www.gartner.com/en/conferences/emea/cio-uk/en/conferences/emea/cio-uk/speakers/featured-speakers/paul-redmond"}, {"name": "Tali Sharot", "major": "Author and Professor, Cognitive Neuroscience", "bio_detail": "https://www.gartner.com/en/conferences/emea/cio-uk/en/conferences/emea/cio-uk/speakers/featured-speakers/tali-sharot"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/cio-uk/agenda/day", "agenda_days": [{"day": "Day 1 / Monday, 11 March, 2024"}, {"day": "Day 2 / Tuesday, 12 March, 2024"}, {"day": "Day 3 / Wednesday, 13 March, 2024"}]}, "track": [{"track_title": "CIO as CXO"}, {"track_title": "CIO as Functional Leader"}], "register_url": "https://www.gartner.com/en/conferences/emea/cio-uk/register"},
-{"name": "Gartner Security & Risk Management Summit", "start_date": "2024-03-18", "location": "Sydney, Australia", "topic": "Security & Risk Management", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia", "speakers": [{"name": "Scott Brown", "major": "Chief Information Security Officer", "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/en/conferences/apac/security-risk-management-australia/speakers/featured-speakers/scott-brown"}, {"name": "Suzy Clarke", "major": "Executive General Manager - Security", "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/en/conferences/apac/security-risk-management-australia/speakers/featured-speakers/suzy-clarke"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 17 March, 2024"}, {"day": "Day 2 / Monday, 18 March, 2024"}, {"day": "Day 3 / Tuesday, 19 March, 2024"}]}, "track": [{"track_title": "Track A: Cybersecurity Leadership"}, {"track_title": "Track B: Infrastructure Security"}, {"track_title": "Track C: Application and Data Security"}, {"track_title": "Track D: Cybersecurity Operations"}, {"track_title": "Track E: CISO Circle"}, {"track_title": "Track F: Cyber Risk Management"}, {"track_title": "Spotlight Track: Identity and Access Management"}, {"track_title": "Spotlight Track: Artificial Intelligence"}], "register_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/register"},
-{"name": "Gartner Tech Growth & Innovation Conference", "start_date": "2024-03-20", "location": "Grapevine, TX", "topic": "Technology & Service Providers", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/tech-growth-us", "speakers": [{"name": "Matthew Luhn", "major": "Award Winning Filmmaker, Director, Former Lead Storyteller and Animator at Pixar Studios", "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/matthew-luhn"}, {"name": "Christy Ferguson", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/christy-ferguson"}, {"name": "Jim Hare", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/jim-hare"}, {"name": "Eric Hunter", "major": "Managing Vice President", "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/eric-hunter"}, {"name": "Jen Singleton", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/jen-singleton"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/agenda/day", "agenda_days": [{"day": "Day 1 / Tuesday, March 19, 2024"}, {"day": "Day 2 / Wednesday, March 20, 2024"}, {"day": "Day 3 / Thursday, March 21, 2024"}]}, "track": [{"track_title": "Track A: Innovate and Deliver Products and Services to Maximize Value"}, {"track_title": "Track B: Elevate Marketing Impact with Tactics, Tech, and Teams"}, {"track_title": "Track C: Drive Holistic Customer Growth"}, {"track_title": "Track D: Maximize GenAI and Tech Investments for Your Business"}, {"track_title": "Spotlight Track: Smart Technologies for GTM Success"}, {"track_title": "Spotlight Track: Influencing and Spearheading Growth: The Evolution of Analyst Relations"}], "register_url": "https://www.gartner.com/en/conferences/na/tech-growth-us/register"},
-{"name": "Gartner Data & Analytics Summit", "start_date": "2024-05-13", "location": "London, U.K.", "topic": "Data & Analytics", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk", "speakers": [{"name": "Georgia O'Callaghan", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/georgia-o-callaghan"}, {"name": "Rita Sallam", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/rita-sallam"}, {"name": "Pieter den Hamer", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/pieter-den-hamer"}, {"name": "Debra Logan", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/debra-logan"}, {"name": "Jason Medd", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/jason-medd"}, {"name": "Sumit Agarwal", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/sumit-agrawal"}, {"name": "Alan Duncan", "major": "Leadership Partner", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/alan-duncan"}, {"name": "Carlie Idoine", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/carlie-idoine"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 12 May, 2024"}, {"day": "Day 2 / Monday, 13 May, 2024"}, {"day": "Day 3 / Tuesday, 14 May, 2024"}, {"day": "Day 4 / Wednesday, 15 May, 2024"}]}, "track": [{"track_title": "Track A: Leadership"}, {"track_title": "Track B: Business Value"}, {"track_title": "Track C: AI"}, {"track_title": "Track D: Analytics"}, {"track_title": "Track E: Data Management"}, {"track_title": "Track F: Trust, Governance and Culture"}], "register_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/register"},
-{"name": "Conferência Gartner Data & Analytics", "start_date": "2024-03-26", "location": "São Paulo, Brazil", "topic": "Data & Analytics", "region": "Americas", "url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil", "speakers": [{"name": "Joe Antelmi", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/joe-antelmi"}, {"name": "Amy Bickel", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/amy-bickel"}, {"name": "Frank Buytendijk", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/frank-buytendijk"}, {"name": "Lydia Clougherty Jones", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/lydia-clougherty-jones"}, {"name": "Pieter den Hamer", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/pieter-den-hamer"}, {"name": "Alan D. Duncan", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/alan-duncan"}, {"name": "Kevin Gabbard", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/kevin-gabbard"}, {"name": "Rick Greenwald", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/rick-greenwald"}, {"name": "Helen Grimster", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/helen-grimster"}, {"name": "Peter Krensky", "major": "Sr Principal Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/peter-krensky"}, {"name": "Christopher Long", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/christopher-long"}, {"name": "Edgar Macari", "major": "Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/edgar-macari"}, {"name": "Jason Medd", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/jason-medd"}, {"name": "Donna Medeiros", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/donna-medeiros"}, {"name": "Nate Novosel", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/nate-novosel"}, {"name": "Aura Popa", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/aura-popa"}, {"name": "Ramke Ramakrishnan", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/ramke-ramakrishnan"}, {"name": "Aaron Rosenbaum", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/aaron-rosenbaum"}, {"name": "Kurt Schlegel", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/kurt-schlegel"}, {"name": "Andrew White", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/andrew-white"}], "timeline": {"link_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/agenda/day", "agenda_days": [{"day": "Dia 1 / segunda-feira, 25 março, 2024"}, {"day": "Dia 2 / terça-feira, 26 março, 2024"}, {"day": "Dia 3 / quarta-feira, 27 março, 2024"}]}, "track": [{"track_title": "Vertente A: Liderança"}, {"track_title": "Vertente B: Valor de Negócios"}, {"track_title": "Vertente C: Inteligência Artificial (IA)"}, {"track_title": "Vertente D: Analytics"}, {"track_title": "Vertente E: Gestão de Dados"}, {"track_title": "Vertente F: Confiança, Governança e Cultura"}], "register_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/register"},
-{"name": "Gartner Identity & Access Management Summit", "start_date": "2024-03-04", "location": "London, U.K.", "topic": "Security & Risk Management", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk", "speakers": [{"name": "René Carayol", "major": "Executive Coach & Founder of The Everyone Group", "bio_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/en/conferences/emea/identity-access-management-uk/speakers/featured-speakers/rene-carayol"}, {"name": "Rahaf Harfoush", "major": "Digital Anthropologist and Executive Director", "bio_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/en/conferences/emea/identity-access-management-uk/speakers/featured-speakers/rahaf-harfoush"}, {"name": "Paul Proctor", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/en/conferences/emea/identity-access-management-uk/speakers/featured-speakers/paul-proctor"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 03 March, 2024"}, {"day": "Day 2 / Monday, 04 March, 2024"}, {"day": "Day 3 / Tuesday, 05 March, 2024"}]}, "track": [{"track_title": "Track A: Identity Governance and Administration"}, {"track_title": "Track B: Privileged Access Management"}, {"track_title": "Track C: Access Management"}, {"track_title": "Track D: User Authentication and Identity Proofing"}, {"track_title": "Track E: IAM Program Management"}, {"track_title": "Spotlight Track: Cybersecurity, Leadership and Strategy"}, {"track_title": "Spotlight Track: Technical Insights"}], "register_url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/register"},
-{"name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference", "start_date": "2024-12-10", "location": "Las Vegas, NV", "topic": "IT Infrastructure & Operations", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us", "speakers": [{"name": "Whitney Johnson", "major": "CEO & Author", "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/whitney-johnson"}, {"name": "Mike Krzyzewski", "major": "Head Men's Basketball Coach, Duke University (1980 – 2022)", "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/mike-krzyzewski"}, {"name": "Tori Paulman", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/tori-paulman"}, {"name": "Autumn Stanish", "major": "Sr Principal Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/autumn-stanish"}, {"name": "Thomas Bittman", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/tom-bittman"}, {"name": "Dennis Smith", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/dennis-smith"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/agenda/day", "agenda_days": [{"day": "Day 1 / Monday, December 04, 2023"}, {"day": "Day 2 / Tuesday, December 05, 2023"}, {"day": "Day 3 / Wednesday, December 06, 2023"}, {"day": "Day 4 / Thursday, December 07, 2023"}]}, "track": [{"track_title": "Track A: Sparking Innovation"}, {"track_title": "Track B: Accelerating Cloud Value"}, {"track_title": "Track C: Engineering Platforms"}, {"track_title": "Track D: Enhancing Operations"}, {"track_title": "Track E: Evolving at the Edge"}, {"track_title": "Track F: Embedding Security"}, {"track_title": "Track G: Developing Skills"}, {"track_title": "Track H: Transforming Leadership and the Organization"}, {"track_title": "Track I: Optimizing Costs and Value"}, {"track_title": "Spotlight Track: Diversity, Equity & Inclusion"}, {"track_title": "Spotlight Track: Sourcing, Procurement & Vendor Management"}, {"track_title": "Spotlight Track: Senior Leadership Circle"}, {"track_title": "Spotlight Track: Midsize Enterprise"}, {"track_title": "Spotlight Track: Technical Insights"}, {"track_title": "Spotlight Track: Sustainability"}, {"track_title": "Spotlight Track: Digital Workplace"}], "register_url": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/register"},
-{"name": "Gartner Identity & Access Management Summit", "start_date": "2024-12-09", "location": "Grapevine, TX", "topic": "Security & Risk Management", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/identity-access-management-us", "speakers": [{"name": "Homan Farahmand", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/homan-farahmand"}, {"name": "Haben Girma", "major": "Disability Rights Lawyer and Author", "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/haben-girma"}, {"name": "Tina Nunno", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/tina-nunno"}, {"name": "Dr. Steve Robbins", "major": "Chief Curiosity Cultivator", "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/steve-robbins"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, March 19, 2023"}, {"day": "Day 2 / Monday, March 20, 2023"}, {"day": "Day 3 / Tuesday, March 21, 2023"}, {"day": "Day 4 / Wednesday, March 22, 2023"}]}, "track": [{"track_title": "Track A: Identity Governance and Administration"}, {"track_title": "Track B: Privileged Access Management"}, {"track_title": "Track C: Access Management"}, {"track_title": "Track D: User Authentication and Identity Proofing"}, {"track_title": "Track E: Cybersecurity, Leadership and Strategy"}, {"track_title": "Track F: IAM Program Management"}], "register_url": "https://www.gartner.com/en/conferences/na/identity-access-management-us/register"},
-{"name": "Gartner IT Symposium/Xpo™", "start_date": "2024-11-11", "location": "Kochi, India", "topic": "CIOs & IT Executives", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/symposium-india", "speakers": [{"name": "Amitabh Kant", "major": "India's Sherpa for the G20", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/amitabh-kant"}, {"name": "Haben Girma", "major": "Disability Rights Lawyer and Author", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/haben-girma"}, {"name": "Chris Barton", "major": "Founder and Creator of Shazam, Entrepreneur, Inventor and Tech Investor", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/chris-barton"}, {"name": "Alicia Mullery", "major": "VP, Research", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/alicia-mullery"}, {"name": "Dave Aron", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/dave-aron"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/agenda/day", "agenda_days": [{"day": "Day 1 / Monday, 27 November, 2023"}, {"day": "Day 2 / Tuesday, 28 November, 2023"}, {"day": "Day 3 / Wednesday, 29 November, 2023"}, {"day": "Day 4 / Thursday, 30 November, 2023"}]}, "track": [{"track_title": "Critical Execution"}, {"track_title": "Future Directions"}, {"track_title": "Strategies for Success"}], "register_url": "https://www.gartner.com/en/conferences/apac/symposium-india/register"},
-{"name": "Gartner Security & Risk Management Summit", "start_date": "2024-02-26", "location": "Mumbai, India", "topic": "Security & Risk Management", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/security-risk-management-india", "speakers": [{"name": "Peter Hinssen", "major": "Entrepreneur, Keynote Speaker and Author", "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/en/conferences/apac/security-risk-management-india/speakers/featured-speakers/peter-hinssen"}, {"name": "Richard Addiscott", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/en/conferences/apac/security-risk-management-india/speakers/featured-speakers/richard-addiscott"}, {"name": "Oscar Isaka", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/en/conferences/apac/security-risk-management-india/speakers/featured-speakers/oscar-isaka"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 25 February, 2024"}, {"day": "Day 2 / Monday, 26 February, 2024"}, {"day": "Day 3 / Tuesday, 27 February, 2024"}]}, "track": [{"track_title": "Track A: Cybersecurity Leadership"}, {"track_title": "Track B: Cyber and IT Risk Management"}, {"track_title": "Track C: Infrastructure Security"}, {"track_title": "Track D: Application and Data Security"}, {"track_title": "Track E: Cybersecurity Operations"}], "register_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/register"},
-{"name": "Gartner CIO Leadership Forum", "start_date": "2024-02-26", "location": "Phoenix, AZ", "topic": "CIOs & IT Executives", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/cio-us-west", "speakers": [{"name": "Shawn Achor", "major": "Harvard Researcher, Author and Positive Psychology Expert", "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-west/en/conferences/na/cio-us-west/speakers/featured-speakers/shawn-achor"}, {"name": "Carla Harris", "major": "Senior Client Advisor", "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-west/en/conferences/na/cio-us-west/speakers/featured-speakers/carla-harris"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/cio-us-west/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, February 25, 2024"}, {"day": "Day 2 / Monday, February 26, 2024"}, {"day": "Day 3 / Tuesday, February 27, 2024"}]}, "track": [{"track_title": "CIO as CXO"}, {"track_title": "CIO as Functional Leader"}], "register_url": "https://www.gartner.com/en/conferences/na/cio-us-west/register"},
-{"name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference", "start_date": "2024-11-19", "location": "London, U.K.", "topic": "IT Infrastructure & Operations", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk", "speakers": [{"name": "Whitney Johnson", "major": "CEO & Author", "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/whitney-johnson"}, {"name": "Tori Paulman", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/tori-paulman"}, {"name": "Thomas Bittman", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/thomas-bittman"}, {"name": "Autumn Stanish", "major": "Sr Principal Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/autumn-stanish"}, {"name": "Dennis Smith", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/dennis-smith"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 19 November, 2023"}, {"day": "Day 2 / Monday, 20 November, 2023"}, {"day": "Day 3 / Tuesday, 21 November, 2023"}]}, "track": [{"track_title": "Track A: Sparking Innovation"}, {"track_title": "Track B: Accelerating Cloud Value"}, {"track_title": "Track C: Engineering Platforms"}, {"track_title": "Track D: Enhancing Operations"}, {"track_title": "Track E: Transforming Leadership, Skills and the Organization"}, {"track_title": "Spotlight Track: Diversity, Equity and Inclusion"}, {"track_title": "Spotlight Track: Sourcing, Procurement & Vendor Management"}, {"track_title": "Spotlight Track: Doing Big Things With Small Teams"}, {"track_title": "Spotlight Track: Technical Insights"}, {"track_title": "Spotlight Track: I&O Security"}, {"track_title": "Senior Leadership Circle"}], "register_url": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/register"},
-{"name": "Gartner IT Symposium/Xpo™\"", "start_date": "2024-10-28", "location": "Tokyo, Japan", "topic": "CIOs & IT Executives", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/jp/conferences/apac/symposium-japan", "speakers": [{"name": "アペクシャ カウシク", "major": "プリンシパル アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/apeksha-kaushik"}, {"name": "アルフレッド シム", "major": "ディレクター, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/alfred-sim"}, {"name": "クリスティン モイヤー", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kristin-moyer"}, {"name": "グレッグ リー", "major": "バイス プレジデント, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/greg-li"}, {"name": "ジェニファー カーター", "major": "プリンシパル アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/jennifer-carter"}, {"name": "スベトラーナ シキュラー", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/svetlana-sicular"}, {"name": "デイヴィッド ファーロンガー", "major": "ディスティングイッシュト バイス プレジデント, アナリスト兼Gartnerフェロー", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/david-furlonger"}, {"name": "デーブ アロン", "major": "ディスティングイッシュト バイス プレジデント, アナリスト兼Gartnerフェロー", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/dave-aron"}, {"name": "トーマス ニールセン", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tomas-nielsen"}, {"name": "ドン シャイベンライフ", "major": "ディスティングイッシュト バイスプレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/don-scheibenreif"}, {"name": "ドンヘ パク", "major": "シニア ディレクター, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/dongbae-park"}, {"name": "ブライアン ギャニオン", "major": "マネージング バイス プレジデント", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/brian-gagnon"}, {"name": "マーク ラスキーノ", "major": "ディスティングイッシュト バイス プレジデント, アナリスト兼Gartnerフェロー", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/mark-raskino"}, {"name": "リチャード アディスコット", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/richard-addiscott"}, {"name": "ロバート ネーグル", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/robert-naegle"}, {"name": "一志 達也", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tatsuya-ichishi"}, {"name": "中尾 晃政", "major": "シニア プリンシパル, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/akimasa-nakao"}, {"name": "亦賀 忠明", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tadaaki-mataga"}, {"name": "土屋 隆一", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/ryuichi-tsuchiya"}, {"name": "坂木 洋", "major": "シニア ディレクター アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/sakaki-hiroshi"}, {"name": "山本 琢磨", "major": "ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/takuma-yamamoto"}, {"name": "川辺 謙介", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kensuke-kawabe"}, {"name": "本好 宏次", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/koji-motoyoshi"}, {"name": "松本 良之", "major": "ディスティングイッシュト バイス プレジデント, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/yoshi-matsumoto"}, {"name": "林 宏典", "major": "ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hironori-hayashi"}, {"name": "桂島 航", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/wataru-katsurashima"}, {"name": "池田 武史", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/takeshi-ikeda"}, {"name": "海老名 剛", "major": "バイスプレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tsuyoshi-ebina"}, {"name": "片山 博之", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hiroyuki-katayama"}, {"name": "片山 治利", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/harutoshi-katayama"}, {"name": "矢野 薫", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kaoru-yano"}, {"name": "礒田 優一", "major": "バイスプレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/yuichi-isoda"}, {"name": "米田 英央", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hideo-yoneda"}, {"name": "藤原 恒夫", "major": "バイス プレジデント, アナリスト兼Gartnerフェロー", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tsuneo-fujiwara"}, {"name": "針生 恵理", "major": "ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/eri-hariu"}, {"name": "鈴木 弘之", "major": "シニア プリンシパル アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hiroyuki-suzuki"}, {"name": "鈴木 雅喜", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/masaki-suzuki"}, {"name": "鹿内 健太郎", "major": "シニア ディレクター アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kentaro-shikanai"}], "timeline": {"link_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/agenda/day", "agenda_days": [{"day": "開催日 1 / 2023年11月13日（月）"}, {"day": "開催日 2 / 2023年11月14日（火）"}, {"day": "開催日 3 / 2023年11月15日（水）"}]}, "track": [{"track_title": "将来の方向性"}, {"track_title": "成功に向けた戦略"}, {"track_title": "重要な実行策"}], "register_url": "https://www.gartner.com/jp/conferences/apac/symposium-japan/register"},
-{"name": "Gartner Data & Analytics Summit", "start_date": "2024-03-11", "location": "Orlando, FL", "topic": "Data & Analytics", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/data-analytics-us", "speakers": [{"name": "Kate Darling", "major": "Leading Expert in Social Robotics and MIT Media Lab Research Scientist", "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/kate-darling"}, {"name": "David Kwong", "major": "Magician, New York Times crossword puzzle constructor", "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/david-kwong"}, {"name": "Debra Logan", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/debra-logan"}, {"name": "Ehtisham Zaidi", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/ehtisham-zaidi"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, March 10, 2024"}, {"day": "Day 2 / Monday, March 11, 2024"}, {"day": "Day 3 / Tuesday, March 12, 2024"}, {"day": "Day 4 / Wednesday, March 13, 2024"}]}, "track": [{"track_title": "Track A: Leadership"}, {"track_title": "Track B: Business Value"}, {"track_title": "Track C: AI"}, {"track_title": "Track D: Analytics"}, {"track_title": "Track E: Data Management"}, {"track_title": "Track F: Trust, Governance and Culture"}, {"track_title": "CDAO Circle"}, {"track_title": "Spotlight Track: Diversity, Equity & Inclusion (DE&I)"}, {"track_title": "Spotlight Track: CDAO"}, {"track_title": "Spotlight Track: Head of Data Management"}, {"track_title": "Spotlight Track: Head of Analytics & BI"}, {"track_title": "Spotlight Track: Head of Data Science & AI"}, {"track_title": "Spotlight Track: Head of D&A Governance"}, {"track_title": "Spotlight Track: Architect/Engineer"}], "register_url": "https://www.gartner.com/en/conferences/na/data-analytics-us/register"},
-{"name": "Gartner IT Symposium/Xpo™", "start_date": "2024-10-21", "location": "Orlando, FL", "topic": "CIOs & IT Executives", "region": "Americas", "url": "https://www.gartner.com/en/conferences/na/symposium-us", "speakers": [{"name": "Earvin “Magic” Johnson", "major": "Leader, Basketball Legend, and Successful Entrepreneur", "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/earvin-johnson"}, {"name": "Admiral William H. McRaven", "major": "Former Commander of U.S. Special Operations Command and Best-selling Author", "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/admiral-william-h-mcraven"}, {"name": "Jay Shetty", "major": "#1 New York Times Bestselling Author, Podcaster, Purpose Coach and Former Monk", "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/jay-shetty"}, {"name": "Taryn Southern", "major": "Award-winning Artist, Storyteller and Strategist", "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/taryn-southern"}, {"name": "Mary Mesaglio", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/mary-mesaglio"}, {"name": "Don Scheibenreif", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/don-scheibenreif"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/na/symposium-us/agenda/day", "agenda_days": [{"day": "Day 1 / Saturday, October 14, 2023"}, {"day": "Day 2 / Sunday, October 15, 2023"}, {"day": "Day 3 / Monday, October 16, 2023"}, {"day": "Day 4 / Tuesday, October 17, 2023"}, {"day": "Day 5 / Wednesday, October 18, 2023"}, {"day": "Day 6 / Thursday, October 19, 2023"}]}, "track": [{"track_title": "Future Directions"}, {"track_title": "Strategies for Success"}, {"track_title": "Critical Execution"}], "register_url": "https://www.gartner.com/en/conferences/na/symposium-us/register"},
-{"name": "Gartner IT Symposium/Xpo™", "start_date": "2024-11-04", "location": "Barcelona, Spain", "topic": "CIOs & IT Executives", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/symposium-spain", "speakers": [{"name": "Tal Ben-Shahar", "major": "Founder, Happiness Studies Academy", "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/tal-ben-shahar"}, {"name": "Peter Hinssen", "major": "Entrepreneur, Keynote Speaker and Author", "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/peter-hinssen"}, {"name": "Mary Mesaglio", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/mary-mesaglio"}, {"name": "Gabriela Vogel", "major": "Sr Director Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/gabriela-vogel"}, {"name": "Martina Navratilova", "major": "Tennis Legend & Hall of Famer, Speaker, Media Personality, Author", "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/martina-navratilova"}, {"name": "Erik Brynjolfsson", "major": "Senior Fellow at the Stanford Institute for Human-Centered Artificial Intelligence (HAI) and Director of the Stanford Digital Economy Lab", "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/erik-brynjolfsson"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 05 November, 2023"}, {"day": "Day 2 / Monday, 06 November, 2023"}, {"day": "Day 3 / Tuesday, 07 November, 2023"}, {"day": "Day 4 / Wednesday, 08 November, 2023"}, {"day": "Day 5 / Thursday, 09 November, 2023"}]}, "track": [{"track_title": "Future Directions"}, {"track_title": "Strategies for Success"}, {"track_title": "Critical Execution"}], "register_url": "https://www.gartner.com/en/conferences/emea/symposium-spain/register"},
-{"name": "ガートナー セキュリティ ＆ リスク・マネジメント サミット", "start_date": "2024-07-24", "location": "Tokyo, Japan", "topic": "Security & Risk Management", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan", "speakers": [{"name": "アンジェラ ジャオ", "major": "ディレクター アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/angela-zhao"}, {"name": "ウェイン ハンキンス", "major": "シニア ディレクター, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/wayne-hankins"}, {"name": "エンリケ テシェイラ", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/henrique-teixeira"}, {"name": "オスカー イサカ", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/oscar-isaka"}, {"name": "ジェイ ハイザー", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/jay-heiser"}, {"name": "ジョナサン ヌネス", "major": "シニア ディレクター アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/jonathan-nunez"}, {"name": "デール ガードナー", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/dale-gardner"}, {"name": "ピート ショア―ド", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/pete-shoard"}, {"name": "マイケル ケリー", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/michael-kelley"}, {"name": "亦賀 忠明", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/tadaaki-mataga"}, {"name": "土屋 隆一", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/ryuichi-tsuchiya"}, {"name": "池田 武史", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/takeshi-ikeda"}, {"name": "浅田 徹", "major": "リージョナル バイス プレジデント (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/toru-asada"}, {"name": "熊倉 一徳", "major": "エグゼクティブ パートナー  (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/kazunori-kumakura"}, {"name": "矢野 薫", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/kaoru-yano"}, {"name": "礒田 優一", "major": "バイスプレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/yuichi-isoda"}, {"name": "針生 恵理", "major": "ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/eri-hariu"}, {"name": "鈴木 弘之", "major": "シニア プリンシパル アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/hiroyuki-suzuki"}, {"name": "青山 浩子", "major": "ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/hiroko-aoyama"}], "timeline": {"link_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/agenda/day", "agenda_days": [{"day": "開催日 1 / 2023年7月26日（水）"}, {"day": "開催日 2 / 2023年7月27日（木）"}, {"day": "開催日 3 / 2023年7月28日（金）"}]}, "track": [{"track_title": "トラックA：サイバーセキュリティ・リーダーシップ"}, {"track_title": "トラックB：リスク・マネジメント、セキュリティ運用、およびレジリエンス"}, {"track_title": "トラックC：ITストラテジ＆マネジメント"}, {"track_title": "トラックD：テクノロジ＆アーキテクチャ"}, {"track_title": "トラックE：CISOサークル"}], "register_url": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/register"},
-{"name": "Gartner CIO Leadership Forum", "start_date": "2024-07-09", "location": "Tokyo, Japan", "topic": "CIOs & IT Executives", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/jp/conferences/apac/cio-japan", "speakers": [{"name": "アルフレッド シム", "major": "ディレクター, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/alfred-sim"}, {"name": "ガブリエラ ボーゲル", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/gabriela-vogel"}, {"name": "クリスティン モイヤー", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/kristin-moyer"}, {"name": "グラハム ウォーラー", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/graham-waller"}, {"name": "モーデカイ .", "major": "シニア  ディレクター アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/mordecai"}, {"name": "一志 達也", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/tatsuya-ichishi"}, {"name": "中田 直樹", "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/naoki-nakada"}, {"name": "串田 守弘", "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/morihiro-kushida"}, {"name": "亦賀 忠明", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/tadaaki-mataga"}, {"name": "佐野 義仁", "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/yoshihito-sano"}, {"name": "加藤 石根", "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/iwane-kato"}, {"name": "坂木 洋", "major": "シニア ディレクター アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/hiroshi-sakaki"}, {"name": "増川 順一", "major": "シニア エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム)", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/junichi-masukawa"}, {"name": "大友 雅之", "major": "エグゼクティブ パートナー  (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/masayuki-otomo"}, {"name": "松本 良之", "major": "ディスティングイッシュト バイス プレジデント, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/yoshi-matsumoto"}, {"name": "桂島 航", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/wataru-katsurashima"}, {"name": "片山 博之", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/hiroyuki-katayama"}, {"name": "矢野 薫", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/kaoru-yano"}, {"name": "藤原 恒夫", "major": "バイス プレジデント, アナリスト兼Gartnerフェロー", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/tsuneo-fujiwara"}, {"name": "近藤 信一", "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/shinichi-kondo"}, {"name": "鹿内 健太郎", "major": "シニア ディレクター アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/kentaro-shikanai"}], "timeline": {"link_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/agenda/day", "agenda_days": [{"day": "開催日 1 / 2023年7月11日（火）"}, {"day": "開催日 2 / 2023年7月12日（水）"}]}, "track": [{"track_title": "革新的なビジネス戦略"}, {"track_title": "力強いリーダーシップ"}, {"track_title": "エグゼクティブの有効性"}, {"track_title": "革新的なIT戦略"}, {"track_title": "ダイナミック・タレント・マネジメント"}, {"track_title": "CIOの役割の進化"}], "register_url": "https://www.gartner.com/jp/conferences/apac/cio-japan/register"},
-{"name": "Gartner IT Symposium/Xpo™", "start_date": "2024-09-09", "location": "Gold Coast, Australia", "topic": "CIOs & IT Executives", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/en/conferences/apac/symposium-australia", "speakers": [{"name": "Matthew Luhn", "major": "Award Winning Filmmaker, Director, Former Lead Storyteller and Animator at Pixar Studios", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/en/conferences/apac/symposium-australia/speakers/featured-speakers/matthew-luhn"}, {"name": "Holly Ransom", "major": "Global Speaker, Interviewer & Leadership Trailblazer", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/en/conferences/apac/symposium-australia/speakers/featured-speakers/holly-ransom"}, {"name": "Peter Hinssen", "major": "Entrepreneur, Keynote Speaker and Author", "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/en/conferences/apac/symposium-australia/speakers/featured-speakers/peter-hinssen"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/agenda/day", "agenda_days": [{"day": "Day 1 / Sunday, 10 September, 2023"}, {"day": "Day 2 / Monday, 11 September, 2023"}, {"day": "Day 3 / Tuesday, 12 September, 2023"}, {"day": "Day 4 / Wednesday, 13 September, 2023"}]}, "track": [{"track_title": "Future Directions"}, {"track_title": "Strategies for Success"}, {"track_title": "Critical Execution"}], "register_url": "https://www.gartner.com/en/conferences/apac/symposium-australia/register"},
-{"name": "Gartner Security & Risk Management Summit", "start_date": "2024-09-23", "location": "London, U.K.", "topic": "Security & Risk Management", "region": "Europe, Middle East and Africa", "url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk", "speakers": [{"name": "Bear Grylls", "major": "Survival and Outdoor Adventurist", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/bear-grylls"}, {"name": "Christopher Mixter", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/christopher-mixter"}, {"name": "Jie Zhang", "major": "VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/jie-zhang"}, {"name": "Frank Buytendijk", "major": "Distinguished VP Analyst", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/frank-buytendijk"}, {"name": "Tali Sharot", "major": "Author and Professor, Cognitive Neuroscience", "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/tali-sharot"}], "timeline": {"link_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/agenda/day", "agenda_days": [{"day": "Day 1 / Monday, 25 September, 2023"}, {"day": "Day 2 / Tuesday, 26 September, 2023"}, {"day": "Day 3 / Wednesday, 27 September, 2023"}, {"day": "Day 4 / Thursday, 28 September, 2023"}]}, "track": [{"track_title": "Cybersecurity Leadership"}, {"track_title": "Cyber and IT Risk Management"}, {"track_title": "Infrastructure Security"}, {"track_title": "Application and Data Security"}, {"track_title": "Cybersecurity Operations"}, {"track_title": "Technical Insights for Security Practitioners"}, {"track_title": "CISO Circle"}, {"track_title": "Spotlight Track: Artificial Intelligence"}], "register_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/register"},
-{"name": "ガートナー データ＆アナリティクス サミット", "start_date": "2024-05-21", "location": "Tokyo, Japan", "topic": "Data & Analytics", "region": "Asia/Pacific and Japan", "url": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan", "speakers": [{"name": "堀内 秀明", "major": "マネージング バイス プレジデント", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/hideaki-horiuchi"}, {"name": "松本 良之", "major": "ディスティングイッシュト バイス プレジデント, アドバイザリ", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/yoshi-matsumoto"}, {"name": "亦賀 忠明", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/tadaaki-mataga"}, {"name": "矢野 薫", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/kaoru-yano"}, {"name": "ガレス ハーシェル", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/gareth-herschel"}, {"name": "川辺 謙介", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/kensuke-kawabe"}, {"name": "藤原 恒夫", "major": "バイス プレジデント, アナリスト兼Gartnerフェロー", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/tsuneo-fujiwara"}, {"name": "一志 達也", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/tatsuya-ichishi"}, {"name": "エリック ブレテヌー", "major": "ディスティングイッシュト バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/erick-brethenoux"}, {"name": "メロディ チエン", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/melody-chien"}, {"name": "ケビン ギャバード", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/kevin-gabbard"}, {"name": "シンユウ グ", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/xingyu-gu"}, {"name": "ジュリアン サン", "major": "シニア ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/julian-sun"}, {"name": "ベン ヤン", "major": "ディレクター, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/ben-yan"}, {"name": "エティシャム ザイディ", "major": "バイス プレジデント, アナリスト", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/ehtisham-zaidi"}, {"name": "阿部 泰二", "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）", "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/taiji-abe"}], "timeline": {"link_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/agenda/day", "agenda_days": [{"day": "開催日 1 / 2024年5月21日（火）"}, {"day": "開催日 2 / 2024年5月22日（水）"}, {"day": "開催日 3 / 2024年5月23日（木）"}]}, "track": [{"track_title": "トラックA：ビジネス価値とリーダーシップ"}, {"track_title": "トラックB：アナリティクスとAI"}, {"track_title": "トラックC：データ管理"}, {"track_title": "トラックD：信頼、ガバナンス、組織文化"}], "register_url": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/register"}
+  {
+    "name": "Gartner CIO Leadership Forum",
+    "start_date": "2024-03-25",
+    "location": "Hollywood, FL",
+    "topic": "CIOs & IT Executives",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/cio-us-east",
+    "speakers": [
+      {
+        "name": "Shawn Achor",
+        "major": "Harvard Researcher, Author and Positive Psychology Expert",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-east/en/conferences/na/cio-us-east/speakers/featured-speakers/shawn-achor"
+      },
+      {
+        "name": "Carla Harris",
+        "major": "Senior Client Advisor",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-east/en/conferences/na/cio-us-east/speakers/featured-speakers/carla-harris"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/cio-us-east/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, March 24, 2024" },
+        { "day": "Day 2 / Monday, March 25, 2024" },
+        { "day": "Day 3 / Tuesday, March 26, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "CIO as CXO" },
+      { "track_title": "CIO as Functional Leader" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/cio-us-east/register"
+  },
+  {
+    "name": "Gartner Security & Risk Management Summit",
+    "start_date": "2024-02-12",
+    "location": "Dubai, UAE",
+    "topic": "Security & Risk Management",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae",
+    "speakers": [
+      {
+        "name": "Fredrik Haren",
+        "major": "The Creativity Explorer",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/en/conferences/emea/security-risk-management-uae/speakers/featured-speakers/fredrik-haren"
+      },
+      {
+        "name": "Christopher Mixter",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/en/conferences/emea/security-risk-management-uae/speakers/featured-speakers/christopher-mixter"
+      },
+      {
+        "name": "Jie Zhang",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/en/conferences/emea/security-risk-management-uae/speakers/featured-speakers/jie-zhang"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 11 February, 2024" },
+        { "day": "Day 2 / Monday, 12 February, 2024" },
+        { "day": "Day 3 / Tuesday, 13 February, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Day 1 / Sunday, 11 February, 2024" },
+      { "track_title": "Day 2 / Monday, 12 February, 2024" },
+      { "track_title": "Day 3 / Tuesday, 13 February, 2024" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uae/register"
+  },
+  {
+    "name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference",
+    "start_date": "2024-05-20",
+    "location": "Sydney, Australia",
+    "topic": "IT Infrastructure & Operations",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia",
+    "speakers": [
+      {
+        "name": "Padraig Byrne",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/en/conferences/apac/infrastructure-operations-cloud-australia/speakers/featured-speakers/padraig-byrne"
+      },
+      {
+        "name": "Hassan Ennaciri",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/en/conferences/apac/infrastructure-operations-cloud-australia/speakers/featured-speakers/hassan-ennaciri"
+      },
+      {
+        "name": "Autumn Stanish",
+        "major": "Sr Principal Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/en/conferences/apac/infrastructure-operations-cloud-australia/speakers/featured-speakers/autumn-stanish"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, May 19, 2024" },
+        { "day": "Day 2 / Monday, May 20, 2024" },
+        { "day": "Day 3 / Tuesday, May 21, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Sparking Innovation" },
+      { "track_title": "Track B: Accelerating Cloud Value" },
+      { "track_title": "Track C: Engineering Platforms" },
+      { "track_title": "Track D: Enhancing Operations" },
+      {
+        "track_title": "Track E: Transforming Leadership, Skills and the Organization"
+      },
+      {
+        "track_title": "Spotlight Track: Sourcing, Procurement and Vendor Management"
+      },
+      { "track_title": "Spotlight Track: Embedding Security" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia/register"
+  },
+  {
+    "name": "Gartner CIO Leadership Forum",
+    "start_date": "2024-04-30",
+    "location": "Sydney, Australia",
+    "topic": "CIOs & IT Executives",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/cio-australia",
+    "speakers": [
+      {
+        "name": "Dave Aron",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/dave-aron"
+      },
+      {
+        "name": "Chris Ganly",
+        "major": "VP, Team Manager",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/chris-ganly"
+      },
+      {
+        "name": "Sharon Hakkennes",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/sharon-hakkennes"
+      },
+      {
+        "name": "Neha Kumar",
+        "major": "Sr Director, Advisory",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/neha-kumar"
+      },
+      {
+        "name": "Christie Struckman",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/christie-struckman"
+      },
+      {
+        "name": "Graham Waller",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/en/conferences/apac/cio-australia/speakers/featured-speakers/graham-waller"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/cio-australia/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Monday, 29 April, 2024" },
+        { "day": "Day 2 / Tuesday, 30 April, 2024" },
+        { "day": "Day 3 / Wednesday, 01 May, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "CIO as CXO" },
+      { "track_title": "CIO as Functional Leader" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/cio-australia/register"
+  },
+  {
+    "name": "Gartner Data & Analytics Summit",
+    "start_date": "2024-04-24",
+    "location": "Mumbai, India",
+    "topic": "Data & Analytics",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/data-analytics-india",
+    "speakers": [
+      {
+        "name": "Sumit Agarwal",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/sumit-agarwal"
+      },
+      {
+        "name": "Ian Bertram",
+        "major": "Managing Vice President",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/ian-bertram"
+      },
+      {
+        "name": "Chirag Dekate",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/chirag-dekate"
+      },
+      {
+        "name": "Anirudh Ganeshan",
+        "major": "Principal Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/anirudh-ganeshan"
+      },
+      {
+        "name": "Gareth Herschel",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/gareth-herschel"
+      },
+      {
+        "name": "Debra Logan",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/debra-logan"
+      },
+      {
+        "name": "Donna Medeiros",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/donna-medeiros"
+      },
+      {
+        "name": "Carlton Sapp",
+        "major": "Managing Vice President",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/carlton-sapp"
+      },
+      {
+        "name": "Robert Thanaraj",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/robert-thanaraj"
+      },
+      {
+        "name": "Shubhangi Vashisth",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/shubhangi-vashisth"
+      },
+      {
+        "name": "Ehtisham Zaidi",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/en/conferences/apac/data-analytics-india/speakers/featured-speakers/ehtisham-zaidi"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/data-analytics-india/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Tuesday, 23 April, 2024" },
+        { "day": "Day 2 / Wednesday, 24 April, 2024" },
+        { "day": "Day 3 / Thursday, 25 April, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Leadership" },
+      { "track_title": "Track B: Business Value" },
+      { "track_title": "Track C: AI" },
+      { "track_title": "Track D: Analytics" },
+      { "track_title": "Track E: Data Management" },
+      { "track_title": "Track F: Trust, Governance and Culture" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/data-analytics-india/register"
+  },
+  {
+    "name": "Gartner CIO Leadership Forum",
+    "start_date": "2024-03-12",
+    "location": "London, U.K.",
+    "topic": "CIOs & IT Executives",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/cio-uk",
+    "speakers": [
+      {
+        "name": "Dr. Paul Redmond",
+        "major": "Director of Student Experience and Enhancement University of Liverpool, England",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/cio-uk/en/conferences/emea/cio-uk/speakers/featured-speakers/paul-redmond"
+      },
+      {
+        "name": "Tali Sharot",
+        "major": "Author and Professor, Cognitive Neuroscience",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/cio-uk/en/conferences/emea/cio-uk/speakers/featured-speakers/tali-sharot"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/cio-uk/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Monday, 11 March, 2024" },
+        { "day": "Day 2 / Tuesday, 12 March, 2024" },
+        { "day": "Day 3 / Wednesday, 13 March, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "CIO as CXO" },
+      { "track_title": "CIO as Functional Leader" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/cio-uk/register"
+  },
+  {
+    "name": "Gartner Security & Risk Management Summit",
+    "start_date": "2024-03-18",
+    "location": "Sydney, Australia",
+    "topic": "Security & Risk Management",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia",
+    "speakers": [
+      {
+        "name": "Scott Brown",
+        "major": "Chief Information Security Officer",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/en/conferences/apac/security-risk-management-australia/speakers/featured-speakers/scott-brown"
+      },
+      {
+        "name": "Suzy Clarke",
+        "major": "Executive General Manager - Security",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/en/conferences/apac/security-risk-management-australia/speakers/featured-speakers/suzy-clarke"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 17 March, 2024" },
+        { "day": "Day 2 / Monday, 18 March, 2024" },
+        { "day": "Day 3 / Tuesday, 19 March, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Cybersecurity Leadership" },
+      { "track_title": "Track B: Infrastructure Security" },
+      { "track_title": "Track C: Application and Data Security" },
+      { "track_title": "Track D: Cybersecurity Operations" },
+      { "track_title": "Track E: CISO Circle" },
+      { "track_title": "Track F: Cyber Risk Management" },
+      { "track_title": "Spotlight Track: Identity and Access Management" },
+      { "track_title": "Spotlight Track: Artificial Intelligence" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia/register"
+  },
+  {
+    "name": "Gartner Tech Growth & Innovation Conference",
+    "start_date": "2024-03-20",
+    "location": "Grapevine, TX",
+    "topic": "Technology & Service Providers",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/tech-growth-us",
+    "speakers": [
+      {
+        "name": "Matthew Luhn",
+        "major": "Award Winning Filmmaker, Director, Former Lead Storyteller and Animator at Pixar Studios",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/matthew-luhn"
+      },
+      {
+        "name": "Christy Ferguson",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/christy-ferguson"
+      },
+      {
+        "name": "Jim Hare",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/jim-hare"
+      },
+      {
+        "name": "Eric Hunter",
+        "major": "Managing Vice President",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/eric-hunter"
+      },
+      {
+        "name": "Jen Singleton",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/en/conferences/na/tech-growth-us/speakers/featured-speakers/jen-singleton"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/tech-growth-us/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Tuesday, March 19, 2024" },
+        { "day": "Day 2 / Wednesday, March 20, 2024" },
+        { "day": "Day 3 / Thursday, March 21, 2024" }
+      ]
+    },
+    "track": [
+      {
+        "track_title": "Track A: Innovate and Deliver Products and Services to Maximize Value"
+      },
+      {
+        "track_title": "Track B: Elevate Marketing Impact with Tactics, Tech, and Teams"
+      },
+      { "track_title": "Track C: Drive Holistic Customer Growth" },
+      {
+        "track_title": "Track D: Maximize GenAI and Tech Investments for Your Business"
+      },
+      { "track_title": "Spotlight Track: Smart Technologies for GTM Success" },
+      {
+        "track_title": "Spotlight Track: Influencing and Spearheading Growth: The Evolution of Analyst Relations"
+      }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/tech-growth-us/register"
+  },
+  {
+    "name": "Gartner Data & Analytics Summit",
+    "start_date": "2024-05-13",
+    "location": "London, U.K.",
+    "topic": "Data & Analytics",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk",
+    "speakers": [
+      {
+        "name": "Georgia O'Callaghan",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/georgia-o-callaghan"
+      },
+      {
+        "name": "Rita Sallam",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/rita-sallam"
+      },
+      {
+        "name": "Pieter den Hamer",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/pieter-den-hamer"
+      },
+      {
+        "name": "Debra Logan",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/debra-logan"
+      },
+      {
+        "name": "Jason Medd",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/jason-medd"
+      },
+      {
+        "name": "Sumit Agarwal",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/sumit-agrawal"
+      },
+      {
+        "name": "Alan Duncan",
+        "major": "Leadership Partner",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/alan-duncan"
+      },
+      {
+        "name": "Carlie Idoine",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/en/conferences/emea/data-analytics-uk/speakers/featured-speakers/carlie-idoine"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 12 May, 2024" },
+        { "day": "Day 2 / Monday, 13 May, 2024" },
+        { "day": "Day 3 / Tuesday, 14 May, 2024" },
+        { "day": "Day 4 / Wednesday, 15 May, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Leadership" },
+      { "track_title": "Track B: Business Value" },
+      { "track_title": "Track C: AI" },
+      { "track_title": "Track D: Analytics" },
+      { "track_title": "Track E: Data Management" },
+      { "track_title": "Track F: Trust, Governance and Culture" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk/register"
+  },
+  {
+    "name": "Conferência Gartner Data & Analytics",
+    "start_date": "2024-03-26",
+    "location": "São Paulo, Brazil",
+    "topic": "Data & Analytics",
+    "region": "Americas",
+    "url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil",
+    "speakers": [
+      {
+        "name": "Joe Antelmi",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/joe-antelmi"
+      },
+      {
+        "name": "Amy Bickel",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/amy-bickel"
+      },
+      {
+        "name": "Frank Buytendijk",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/frank-buytendijk"
+      },
+      {
+        "name": "Lydia Clougherty Jones",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/lydia-clougherty-jones"
+      },
+      {
+        "name": "Pieter den Hamer",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/pieter-den-hamer"
+      },
+      {
+        "name": "Alan D. Duncan",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/alan-duncan"
+      },
+      {
+        "name": "Kevin Gabbard",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/kevin-gabbard"
+      },
+      {
+        "name": "Rick Greenwald",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/rick-greenwald"
+      },
+      {
+        "name": "Helen Grimster",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/helen-grimster"
+      },
+      {
+        "name": "Peter Krensky",
+        "major": "Sr Principal Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/peter-krensky"
+      },
+      {
+        "name": "Christopher Long",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/christopher-long"
+      },
+      {
+        "name": "Edgar Macari",
+        "major": "Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/edgar-macari"
+      },
+      {
+        "name": "Jason Medd",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/jason-medd"
+      },
+      {
+        "name": "Donna Medeiros",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/donna-medeiros"
+      },
+      {
+        "name": "Nate Novosel",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/nate-novosel"
+      },
+      {
+        "name": "Aura Popa",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/aura-popa"
+      },
+      {
+        "name": "Ramke Ramakrishnan",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/ramke-ramakrishnan"
+      },
+      {
+        "name": "Aaron Rosenbaum",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/aaron-rosenbaum"
+      },
+      {
+        "name": "Kurt Schlegel",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/kurt-schlegel"
+      },
+      {
+        "name": "Andrew White",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/pt-br/conferences/la/data-analytics-brazil/speakers/featured-speakers/andrew-white"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/agenda/day",
+      "agenda_days": [
+        { "day": "Dia 1 / segunda-feira, 25 março, 2024" },
+        { "day": "Dia 2 / terça-feira, 26 março, 2024" },
+        { "day": "Dia 3 / quarta-feira, 27 março, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Vertente A: Liderança" },
+      { "track_title": "Vertente B: Valor de Negócios" },
+      { "track_title": "Vertente C: Inteligência Artificial (IA)" },
+      { "track_title": "Vertente D: Analytics" },
+      { "track_title": "Vertente E: Gestão de Dados" },
+      { "track_title": "Vertente F: Confiança, Governança e Cultura" }
+    ],
+    "register_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil/register"
+  },
+  {
+    "name": "Gartner Identity & Access Management Summit",
+    "start_date": "2024-03-04",
+    "location": "London, U.K.",
+    "topic": "Security & Risk Management",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk",
+    "speakers": [
+      {
+        "name": "René Carayol",
+        "major": "Executive Coach & Founder of The Everyone Group",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/en/conferences/emea/identity-access-management-uk/speakers/featured-speakers/rene-carayol"
+      },
+      {
+        "name": "Rahaf Harfoush",
+        "major": "Digital Anthropologist and Executive Director",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/en/conferences/emea/identity-access-management-uk/speakers/featured-speakers/rahaf-harfoush"
+      },
+      {
+        "name": "Paul Proctor",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/en/conferences/emea/identity-access-management-uk/speakers/featured-speakers/paul-proctor"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 03 March, 2024" },
+        { "day": "Day 2 / Monday, 04 March, 2024" },
+        { "day": "Day 3 / Tuesday, 05 March, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Identity Governance and Administration" },
+      { "track_title": "Track B: Privileged Access Management" },
+      { "track_title": "Track C: Access Management" },
+      { "track_title": "Track D: User Authentication and Identity Proofing" },
+      { "track_title": "Track E: IAM Program Management" },
+      {
+        "track_title": "Spotlight Track: Cybersecurity, Leadership and Strategy"
+      },
+      { "track_title": "Spotlight Track: Technical Insights" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk/register"
+  },
+  {
+    "name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference",
+    "start_date": "2024-12-10",
+    "location": "Las Vegas, NV",
+    "topic": "IT Infrastructure & Operations",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us",
+    "speakers": [
+      {
+        "name": "Whitney Johnson",
+        "major": "CEO & Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/whitney-johnson"
+      },
+      {
+        "name": "Mike Krzyzewski",
+        "major": "Head Men's Basketball Coach, Duke University (1980 – 2022)",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/mike-krzyzewski"
+      },
+      {
+        "name": "Tori Paulman",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/tori-paulman"
+      },
+      {
+        "name": "Autumn Stanish",
+        "major": "Sr Principal Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/autumn-stanish"
+      },
+      {
+        "name": "Thomas Bittman",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/tom-bittman"
+      },
+      {
+        "name": "Dennis Smith",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/en/conferences/na/infrastructure-operations-cloud-us/speakers/featured-speakers/dennis-smith"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Monday, December 04, 2023" },
+        { "day": "Day 2 / Tuesday, December 05, 2023" },
+        { "day": "Day 3 / Wednesday, December 06, 2023" },
+        { "day": "Day 4 / Thursday, December 07, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Sparking Innovation" },
+      { "track_title": "Track B: Accelerating Cloud Value" },
+      { "track_title": "Track C: Engineering Platforms" },
+      { "track_title": "Track D: Enhancing Operations" },
+      { "track_title": "Track E: Evolving at the Edge" },
+      { "track_title": "Track F: Embedding Security" },
+      { "track_title": "Track G: Developing Skills" },
+      {
+        "track_title": "Track H: Transforming Leadership and the Organization"
+      },
+      { "track_title": "Track I: Optimizing Costs and Value" },
+      { "track_title": "Spotlight Track: Diversity, Equity & Inclusion" },
+      {
+        "track_title": "Spotlight Track: Sourcing, Procurement & Vendor Management"
+      },
+      { "track_title": "Spotlight Track: Senior Leadership Circle" },
+      { "track_title": "Spotlight Track: Midsize Enterprise" },
+      { "track_title": "Spotlight Track: Technical Insights" },
+      { "track_title": "Spotlight Track: Sustainability" },
+      { "track_title": "Spotlight Track: Digital Workplace" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us/register"
+  },
+  {
+    "name": "Gartner Identity & Access Management Summit",
+    "start_date": "2024-12-09",
+    "location": "Grapevine, TX",
+    "topic": "Security & Risk Management",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/identity-access-management-us",
+    "speakers": [
+      {
+        "name": "Homan Farahmand",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/homan-farahmand"
+      },
+      {
+        "name": "Haben Girma",
+        "major": "Disability Rights Lawyer and Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/haben-girma"
+      },
+      {
+        "name": "Tina Nunno",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/tina-nunno"
+      },
+      {
+        "name": "Dr. Steve Robbins",
+        "major": "Chief Curiosity Cultivator",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/en/conferences/na/identity-access-management-us/speakers/featured-speakers/steve-robbins"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/identity-access-management-us/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, March 19, 2023" },
+        { "day": "Day 2 / Monday, March 20, 2023" },
+        { "day": "Day 3 / Tuesday, March 21, 2023" },
+        { "day": "Day 4 / Wednesday, March 22, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Identity Governance and Administration" },
+      { "track_title": "Track B: Privileged Access Management" },
+      { "track_title": "Track C: Access Management" },
+      { "track_title": "Track D: User Authentication and Identity Proofing" },
+      { "track_title": "Track E: Cybersecurity, Leadership and Strategy" },
+      { "track_title": "Track F: IAM Program Management" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/identity-access-management-us/register"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo™",
+    "start_date": "2024-11-11",
+    "location": "Kochi, India",
+    "topic": "CIOs & IT Executives",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/symposium-india",
+    "speakers": [
+      {
+        "name": "Amitabh Kant",
+        "major": "India's Sherpa for the G20",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/amitabh-kant"
+      },
+      {
+        "name": "Haben Girma",
+        "major": "Disability Rights Lawyer and Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/haben-girma"
+      },
+      {
+        "name": "Chris Barton",
+        "major": "Founder and Creator of Shazam, Entrepreneur, Inventor and Tech Investor",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/chris-barton"
+      },
+      {
+        "name": "Alicia Mullery",
+        "major": "VP, Research",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/alicia-mullery"
+      },
+      {
+        "name": "Dave Aron",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/en/conferences/apac/symposium-india/speakers/featured-speakers/dave-aron"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/symposium-india/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Monday, 27 November, 2023" },
+        { "day": "Day 2 / Tuesday, 28 November, 2023" },
+        { "day": "Day 3 / Wednesday, 29 November, 2023" },
+        { "day": "Day 4 / Thursday, 30 November, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Critical Execution" },
+      { "track_title": "Future Directions" },
+      { "track_title": "Strategies for Success" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/symposium-india/register"
+  },
+  {
+    "name": "Gartner Security & Risk Management Summit",
+    "start_date": "2024-02-26",
+    "location": "Mumbai, India",
+    "topic": "Security & Risk Management",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/security-risk-management-india",
+    "speakers": [
+      {
+        "name": "Peter Hinssen",
+        "major": "Entrepreneur, Keynote Speaker and Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/en/conferences/apac/security-risk-management-india/speakers/featured-speakers/peter-hinssen"
+      },
+      {
+        "name": "Richard Addiscott",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/en/conferences/apac/security-risk-management-india/speakers/featured-speakers/richard-addiscott"
+      },
+      {
+        "name": "Oscar Isaka",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/en/conferences/apac/security-risk-management-india/speakers/featured-speakers/oscar-isaka"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 25 February, 2024" },
+        { "day": "Day 2 / Monday, 26 February, 2024" },
+        { "day": "Day 3 / Tuesday, 27 February, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Cybersecurity Leadership" },
+      { "track_title": "Track B: Cyber and IT Risk Management" },
+      { "track_title": "Track C: Infrastructure Security" },
+      { "track_title": "Track D: Application and Data Security" },
+      { "track_title": "Track E: Cybersecurity Operations" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-india/register"
+  },
+  {
+    "name": "Gartner CIO Leadership Forum",
+    "start_date": "2024-02-26",
+    "location": "Phoenix, AZ",
+    "topic": "CIOs & IT Executives",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/cio-us-west",
+    "speakers": [
+      {
+        "name": "Shawn Achor",
+        "major": "Harvard Researcher, Author and Positive Psychology Expert",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-west/en/conferences/na/cio-us-west/speakers/featured-speakers/shawn-achor"
+      },
+      {
+        "name": "Carla Harris",
+        "major": "Senior Client Advisor",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/cio-us-west/en/conferences/na/cio-us-west/speakers/featured-speakers/carla-harris"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/cio-us-west/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, February 25, 2024" },
+        { "day": "Day 2 / Monday, February 26, 2024" },
+        { "day": "Day 3 / Tuesday, February 27, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "CIO as CXO" },
+      { "track_title": "CIO as Functional Leader" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/cio-us-west/register"
+  },
+  {
+    "name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference",
+    "start_date": "2024-11-19",
+    "location": "London, U.K.",
+    "topic": "IT Infrastructure & Operations",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk",
+    "speakers": [
+      {
+        "name": "Whitney Johnson",
+        "major": "CEO & Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/whitney-johnson"
+      },
+      {
+        "name": "Tori Paulman",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/tori-paulman"
+      },
+      {
+        "name": "Thomas Bittman",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/thomas-bittman"
+      },
+      {
+        "name": "Autumn Stanish",
+        "major": "Sr Principal Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/autumn-stanish"
+      },
+      {
+        "name": "Dennis Smith",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/en/conferences/emea/infrastructure-operations-cloud-uk/speakers/featured-speakers/dennis-smith"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 19 November, 2023" },
+        { "day": "Day 2 / Monday, 20 November, 2023" },
+        { "day": "Day 3 / Tuesday, 21 November, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Sparking Innovation" },
+      { "track_title": "Track B: Accelerating Cloud Value" },
+      { "track_title": "Track C: Engineering Platforms" },
+      { "track_title": "Track D: Enhancing Operations" },
+      {
+        "track_title": "Track E: Transforming Leadership, Skills and the Organization"
+      },
+      { "track_title": "Spotlight Track: Diversity, Equity and Inclusion" },
+      {
+        "track_title": "Spotlight Track: Sourcing, Procurement & Vendor Management"
+      },
+      { "track_title": "Spotlight Track: Doing Big Things With Small Teams" },
+      { "track_title": "Spotlight Track: Technical Insights" },
+      { "track_title": "Spotlight Track: I&O Security" },
+      { "track_title": "Senior Leadership Circle" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/infrastructure-operations-cloud-uk/register"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo™\"",
+    "start_date": "2024-10-28",
+    "location": "Tokyo, Japan",
+    "topic": "CIOs & IT Executives",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/jp/conferences/apac/symposium-japan",
+    "speakers": [
+      {
+        "name": "アペクシャ カウシク",
+        "major": "プリンシパル アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/apeksha-kaushik"
+      },
+      {
+        "name": "アルフレッド シム",
+        "major": "ディレクター, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/alfred-sim"
+      },
+      {
+        "name": "クリスティン モイヤー",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kristin-moyer"
+      },
+      {
+        "name": "グレッグ リー",
+        "major": "バイス プレジデント, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/greg-li"
+      },
+      {
+        "name": "ジェニファー カーター",
+        "major": "プリンシパル アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/jennifer-carter"
+      },
+      {
+        "name": "スベトラーナ シキュラー",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/svetlana-sicular"
+      },
+      {
+        "name": "デイヴィッド ファーロンガー",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト兼Gartnerフェロー",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/david-furlonger"
+      },
+      {
+        "name": "デーブ アロン",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト兼Gartnerフェロー",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/dave-aron"
+      },
+      {
+        "name": "トーマス ニールセン",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tomas-nielsen"
+      },
+      {
+        "name": "ドン シャイベンライフ",
+        "major": "ディスティングイッシュト バイスプレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/don-scheibenreif"
+      },
+      {
+        "name": "ドンヘ パク",
+        "major": "シニア ディレクター, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/dongbae-park"
+      },
+      {
+        "name": "ブライアン ギャニオン",
+        "major": "マネージング バイス プレジデント",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/brian-gagnon"
+      },
+      {
+        "name": "マーク ラスキーノ",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト兼Gartnerフェロー",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/mark-raskino"
+      },
+      {
+        "name": "リチャード アディスコット",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/richard-addiscott"
+      },
+      {
+        "name": "ロバート ネーグル",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/robert-naegle"
+      },
+      {
+        "name": "一志 達也",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tatsuya-ichishi"
+      },
+      {
+        "name": "中尾 晃政",
+        "major": "シニア プリンシパル, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/akimasa-nakao"
+      },
+      {
+        "name": "亦賀 忠明",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tadaaki-mataga"
+      },
+      {
+        "name": "土屋 隆一",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/ryuichi-tsuchiya"
+      },
+      {
+        "name": "坂木 洋",
+        "major": "シニア ディレクター アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/sakaki-hiroshi"
+      },
+      {
+        "name": "山本 琢磨",
+        "major": "ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/takuma-yamamoto"
+      },
+      {
+        "name": "川辺 謙介",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kensuke-kawabe"
+      },
+      {
+        "name": "本好 宏次",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/koji-motoyoshi"
+      },
+      {
+        "name": "松本 良之",
+        "major": "ディスティングイッシュト バイス プレジデント, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/yoshi-matsumoto"
+      },
+      {
+        "name": "林 宏典",
+        "major": "ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hironori-hayashi"
+      },
+      {
+        "name": "桂島 航",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/wataru-katsurashima"
+      },
+      {
+        "name": "池田 武史",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/takeshi-ikeda"
+      },
+      {
+        "name": "海老名 剛",
+        "major": "バイスプレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tsuyoshi-ebina"
+      },
+      {
+        "name": "片山 博之",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hiroyuki-katayama"
+      },
+      {
+        "name": "片山 治利",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/harutoshi-katayama"
+      },
+      {
+        "name": "矢野 薫",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kaoru-yano"
+      },
+      {
+        "name": "礒田 優一",
+        "major": "バイスプレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/yuichi-isoda"
+      },
+      {
+        "name": "米田 英央",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hideo-yoneda"
+      },
+      {
+        "name": "藤原 恒夫",
+        "major": "バイス プレジデント, アナリスト兼Gartnerフェロー",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/tsuneo-fujiwara"
+      },
+      {
+        "name": "針生 恵理",
+        "major": "ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/eri-hariu"
+      },
+      {
+        "name": "鈴木 弘之",
+        "major": "シニア プリンシパル アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/hiroyuki-suzuki"
+      },
+      {
+        "name": "鈴木 雅喜",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/masaki-suzuki"
+      },
+      {
+        "name": "鹿内 健太郎",
+        "major": "シニア ディレクター アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/jp/conferences/apac/symposium-japan/speakers/featured-speakers/kentaro-shikanai"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/jp/conferences/apac/symposium-japan/agenda/day",
+      "agenda_days": [
+        { "day": "開催日 1 / 2023年11月13日（月）" },
+        { "day": "開催日 2 / 2023年11月14日（火）" },
+        { "day": "開催日 3 / 2023年11月15日（水）" }
+      ]
+    },
+    "track": [
+      { "track_title": "将来の方向性" },
+      { "track_title": "成功に向けた戦略" },
+      { "track_title": "重要な実行策" }
+    ],
+    "register_url": "https://www.gartner.com/jp/conferences/apac/symposium-japan/register"
+  },
+  {
+    "name": "Gartner Data & Analytics Summit",
+    "start_date": "2024-03-11",
+    "location": "Orlando, FL",
+    "topic": "Data & Analytics",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/data-analytics-us",
+    "speakers": [
+      {
+        "name": "Kate Darling",
+        "major": "Leading Expert in Social Robotics and MIT Media Lab Research Scientist",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/kate-darling"
+      },
+      {
+        "name": "David Kwong",
+        "major": "Magician, New York Times crossword puzzle constructor",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/david-kwong"
+      },
+      {
+        "name": "Debra Logan",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/debra-logan"
+      },
+      {
+        "name": "Ehtisham Zaidi",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/en/conferences/na/data-analytics-us/speakers/featured-speakers/ehtisham-zaidi"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/data-analytics-us/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, March 10, 2024" },
+        { "day": "Day 2 / Monday, March 11, 2024" },
+        { "day": "Day 3 / Tuesday, March 12, 2024" },
+        { "day": "Day 4 / Wednesday, March 13, 2024" }
+      ]
+    },
+    "track": [
+      { "track_title": "Track A: Leadership" },
+      { "track_title": "Track B: Business Value" },
+      { "track_title": "Track C: AI" },
+      { "track_title": "Track D: Analytics" },
+      { "track_title": "Track E: Data Management" },
+      { "track_title": "Track F: Trust, Governance and Culture" },
+      { "track_title": "CDAO Circle" },
+      {
+        "track_title": "Spotlight Track: Diversity, Equity & Inclusion (DE&I)"
+      },
+      { "track_title": "Spotlight Track: CDAO" },
+      { "track_title": "Spotlight Track: Head of Data Management" },
+      { "track_title": "Spotlight Track: Head of Analytics & BI" },
+      { "track_title": "Spotlight Track: Head of Data Science & AI" },
+      { "track_title": "Spotlight Track: Head of D&A Governance" },
+      { "track_title": "Spotlight Track: Architect/Engineer" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/data-analytics-us/register"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo™",
+    "start_date": "2024-10-21",
+    "location": "Orlando, FL",
+    "topic": "CIOs & IT Executives",
+    "region": "Americas",
+    "url": "https://www.gartner.com/en/conferences/na/symposium-us",
+    "speakers": [
+      {
+        "name": "Earvin “Magic” Johnson",
+        "major": "Leader, Basketball Legend, and Successful Entrepreneur",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/earvin-johnson"
+      },
+      {
+        "name": "Admiral William H. McRaven",
+        "major": "Former Commander of U.S. Special Operations Command and Best-selling Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/admiral-william-h-mcraven"
+      },
+      {
+        "name": "Jay Shetty",
+        "major": "#1 New York Times Bestselling Author, Podcaster, Purpose Coach and Former Monk",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/jay-shetty"
+      },
+      {
+        "name": "Taryn Southern",
+        "major": "Award-winning Artist, Storyteller and Strategist",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/taryn-southern"
+      },
+      {
+        "name": "Mary Mesaglio",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/mary-mesaglio"
+      },
+      {
+        "name": "Don Scheibenreif",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/na/symposium-us/en/conferences/na/symposium-us/speakers/featured-speakers/don-scheibenreif"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/na/symposium-us/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Saturday, October 14, 2023" },
+        { "day": "Day 2 / Sunday, October 15, 2023" },
+        { "day": "Day 3 / Monday, October 16, 2023" },
+        { "day": "Day 4 / Tuesday, October 17, 2023" },
+        { "day": "Day 5 / Wednesday, October 18, 2023" },
+        { "day": "Day 6 / Thursday, October 19, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Future Directions" },
+      { "track_title": "Strategies for Success" },
+      { "track_title": "Critical Execution" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/na/symposium-us/register"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo™",
+    "start_date": "2024-11-04",
+    "location": "Barcelona, Spain",
+    "topic": "CIOs & IT Executives",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/symposium-spain",
+    "speakers": [
+      {
+        "name": "Tal Ben-Shahar",
+        "major": "Founder, Happiness Studies Academy",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/tal-ben-shahar"
+      },
+      {
+        "name": "Peter Hinssen",
+        "major": "Entrepreneur, Keynote Speaker and Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/peter-hinssen"
+      },
+      {
+        "name": "Mary Mesaglio",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/mary-mesaglio"
+      },
+      {
+        "name": "Gabriela Vogel",
+        "major": "Sr Director Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/gabriela-vogel"
+      },
+      {
+        "name": "Martina Navratilova",
+        "major": "Tennis Legend & Hall of Famer, Speaker, Media Personality, Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/martina-navratilova"
+      },
+      {
+        "name": "Erik Brynjolfsson",
+        "major": "Senior Fellow at the Stanford Institute for Human-Centered Artificial Intelligence (HAI) and Director of the Stanford Digital Economy Lab",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/en/conferences/emea/symposium-spain/speakers/featured-speakers/erik-brynjolfsson"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/symposium-spain/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 05 November, 2023" },
+        { "day": "Day 2 / Monday, 06 November, 2023" },
+        { "day": "Day 3 / Tuesday, 07 November, 2023" },
+        { "day": "Day 4 / Wednesday, 08 November, 2023" },
+        { "day": "Day 5 / Thursday, 09 November, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Future Directions" },
+      { "track_title": "Strategies for Success" },
+      { "track_title": "Critical Execution" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/symposium-spain/register"
+  },
+  {
+    "name": "ガートナー セキュリティ ＆ リスク・マネジメント サミット",
+    "start_date": "2024-07-24",
+    "location": "Tokyo, Japan",
+    "topic": "Security & Risk Management",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan",
+    "speakers": [
+      {
+        "name": "アンジェラ ジャオ",
+        "major": "ディレクター アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/angela-zhao"
+      },
+      {
+        "name": "ウェイン ハンキンス",
+        "major": "シニア ディレクター, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/wayne-hankins"
+      },
+      {
+        "name": "エンリケ テシェイラ",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/henrique-teixeira"
+      },
+      {
+        "name": "オスカー イサカ",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/oscar-isaka"
+      },
+      {
+        "name": "ジェイ ハイザー",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/jay-heiser"
+      },
+      {
+        "name": "ジョナサン ヌネス",
+        "major": "シニア ディレクター アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/jonathan-nunez"
+      },
+      {
+        "name": "デール ガードナー",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/dale-gardner"
+      },
+      {
+        "name": "ピート ショア―ド",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/pete-shoard"
+      },
+      {
+        "name": "マイケル ケリー",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/michael-kelley"
+      },
+      {
+        "name": "亦賀 忠明",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/tadaaki-mataga"
+      },
+      {
+        "name": "土屋 隆一",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/ryuichi-tsuchiya"
+      },
+      {
+        "name": "池田 武史",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/takeshi-ikeda"
+      },
+      {
+        "name": "浅田 徹",
+        "major": "リージョナル バイス プレジデント (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/toru-asada"
+      },
+      {
+        "name": "熊倉 一徳",
+        "major": "エグゼクティブ パートナー  (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/kazunori-kumakura"
+      },
+      {
+        "name": "矢野 薫",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/kaoru-yano"
+      },
+      {
+        "name": "礒田 優一",
+        "major": "バイスプレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/yuichi-isoda"
+      },
+      {
+        "name": "針生 恵理",
+        "major": "ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/eri-hariu"
+      },
+      {
+        "name": "鈴木 弘之",
+        "major": "シニア プリンシパル アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/hiroyuki-suzuki"
+      },
+      {
+        "name": "青山 浩子",
+        "major": "ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/jp/conferences/apac/security-risk-management-japan/speakers/featured-speakers/hiroko-aoyama"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/agenda/day",
+      "agenda_days": [
+        { "day": "開催日 1 / 2023年7月26日（水）" },
+        { "day": "開催日 2 / 2023年7月27日（木）" },
+        { "day": "開催日 3 / 2023年7月28日（金）" }
+      ]
+    },
+    "track": [
+      { "track_title": "トラックA：サイバーセキュリティ・リーダーシップ" },
+      {
+        "track_title": "トラックB：リスク・マネジメント、セキュリティ運用、およびレジリエンス"
+      },
+      { "track_title": "トラックC：ITストラテジ＆マネジメント" },
+      { "track_title": "トラックD：テクノロジ＆アーキテクチャ" },
+      { "track_title": "トラックE：CISOサークル" }
+    ],
+    "register_url": "https://www.gartner.com/jp/conferences/apac/security-risk-management-japan/register"
+  },
+  {
+    "name": "Gartner CIO Leadership Forum",
+    "start_date": "2024-07-09",
+    "location": "Tokyo, Japan",
+    "topic": "CIOs & IT Executives",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/jp/conferences/apac/cio-japan",
+    "speakers": [
+      {
+        "name": "アルフレッド シム",
+        "major": "ディレクター, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/alfred-sim"
+      },
+      {
+        "name": "ガブリエラ ボーゲル",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/gabriela-vogel"
+      },
+      {
+        "name": "クリスティン モイヤー",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/kristin-moyer"
+      },
+      {
+        "name": "グラハム ウォーラー",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/graham-waller"
+      },
+      {
+        "name": "モーデカイ .",
+        "major": "シニア  ディレクター アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/mordecai"
+      },
+      {
+        "name": "一志 達也",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/tatsuya-ichishi"
+      },
+      {
+        "name": "中田 直樹",
+        "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/naoki-nakada"
+      },
+      {
+        "name": "串田 守弘",
+        "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/morihiro-kushida"
+      },
+      {
+        "name": "亦賀 忠明",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/tadaaki-mataga"
+      },
+      {
+        "name": "佐野 義仁",
+        "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/yoshihito-sano"
+      },
+      {
+        "name": "加藤 石根",
+        "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/iwane-kato"
+      },
+      {
+        "name": "坂木 洋",
+        "major": "シニア ディレクター アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/hiroshi-sakaki"
+      },
+      {
+        "name": "増川 順一",
+        "major": "シニア エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム)",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/junichi-masukawa"
+      },
+      {
+        "name": "大友 雅之",
+        "major": "エグゼクティブ パートナー  (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/masayuki-otomo"
+      },
+      {
+        "name": "松本 良之",
+        "major": "ディスティングイッシュト バイス プレジデント, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/yoshi-matsumoto"
+      },
+      {
+        "name": "桂島 航",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/wataru-katsurashima"
+      },
+      {
+        "name": "片山 博之",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/hiroyuki-katayama"
+      },
+      {
+        "name": "矢野 薫",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/kaoru-yano"
+      },
+      {
+        "name": "藤原 恒夫",
+        "major": "バイス プレジデント, アナリスト兼Gartnerフェロー",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/tsuneo-fujiwara"
+      },
+      {
+        "name": "近藤 信一",
+        "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/shinichi-kondo"
+      },
+      {
+        "name": "鹿内 健太郎",
+        "major": "シニア ディレクター アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/jp/conferences/apac/cio-japan/speakers/featured-speakers/kentaro-shikanai"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/jp/conferences/apac/cio-japan/agenda/day",
+      "agenda_days": [
+        { "day": "開催日 1 / 2023年7月11日（火）" },
+        { "day": "開催日 2 / 2023年7月12日（水）" }
+      ]
+    },
+    "track": [
+      { "track_title": "革新的なビジネス戦略" },
+      { "track_title": "力強いリーダーシップ" },
+      { "track_title": "エグゼクティブの有効性" },
+      { "track_title": "革新的なIT戦略" },
+      { "track_title": "ダイナミック・タレント・マネジメント" },
+      { "track_title": "CIOの役割の進化" }
+    ],
+    "register_url": "https://www.gartner.com/jp/conferences/apac/cio-japan/register"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo™",
+    "start_date": "2024-09-09",
+    "location": "Gold Coast, Australia",
+    "topic": "CIOs & IT Executives",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/en/conferences/apac/symposium-australia",
+    "speakers": [
+      {
+        "name": "Matthew Luhn",
+        "major": "Award Winning Filmmaker, Director, Former Lead Storyteller and Animator at Pixar Studios",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/en/conferences/apac/symposium-australia/speakers/featured-speakers/matthew-luhn"
+      },
+      {
+        "name": "Holly Ransom",
+        "major": "Global Speaker, Interviewer & Leadership Trailblazer",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/en/conferences/apac/symposium-australia/speakers/featured-speakers/holly-ransom"
+      },
+      {
+        "name": "Peter Hinssen",
+        "major": "Entrepreneur, Keynote Speaker and Author",
+        "bio_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/en/conferences/apac/symposium-australia/speakers/featured-speakers/peter-hinssen"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/apac/symposium-australia/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Sunday, 10 September, 2023" },
+        { "day": "Day 2 / Monday, 11 September, 2023" },
+        { "day": "Day 3 / Tuesday, 12 September, 2023" },
+        { "day": "Day 4 / Wednesday, 13 September, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Future Directions" },
+      { "track_title": "Strategies for Success" },
+      { "track_title": "Critical Execution" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/apac/symposium-australia/register"
+  },
+  {
+    "name": "Gartner Security & Risk Management Summit",
+    "start_date": "2024-09-23",
+    "location": "London, U.K.",
+    "topic": "Security & Risk Management",
+    "region": "Europe, Middle East and Africa",
+    "url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk",
+    "speakers": [
+      {
+        "name": "Bear Grylls",
+        "major": "Survival and Outdoor Adventurist",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/bear-grylls"
+      },
+      {
+        "name": "Christopher Mixter",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/christopher-mixter"
+      },
+      {
+        "name": "Jie Zhang",
+        "major": "VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/jie-zhang"
+      },
+      {
+        "name": "Frank Buytendijk",
+        "major": "Distinguished VP Analyst",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/frank-buytendijk"
+      },
+      {
+        "name": "Tali Sharot",
+        "major": "Author and Professor, Cognitive Neuroscience",
+        "bio_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/en/conferences/emea/security-risk-management-uk/speakers/featured-speakers/tali-sharot"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/agenda/day",
+      "agenda_days": [
+        { "day": "Day 1 / Monday, 25 September, 2023" },
+        { "day": "Day 2 / Tuesday, 26 September, 2023" },
+        { "day": "Day 3 / Wednesday, 27 September, 2023" },
+        { "day": "Day 4 / Thursday, 28 September, 2023" }
+      ]
+    },
+    "track": [
+      { "track_title": "Cybersecurity Leadership" },
+      { "track_title": "Cyber and IT Risk Management" },
+      { "track_title": "Infrastructure Security" },
+      { "track_title": "Application and Data Security" },
+      { "track_title": "Cybersecurity Operations" },
+      { "track_title": "Technical Insights for Security Practitioners" },
+      { "track_title": "CISO Circle" },
+      { "track_title": "Spotlight Track: Artificial Intelligence" }
+    ],
+    "register_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk/register"
+  },
+  {
+    "name": "ガートナー データ＆アナリティクス サミット",
+    "start_date": "2024-05-21",
+    "location": "Tokyo, Japan",
+    "topic": "Data & Analytics",
+    "region": "Asia/Pacific and Japan",
+    "url": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan",
+    "speakers": [
+      {
+        "name": "堀内 秀明",
+        "major": "マネージング バイス プレジデント",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/hideaki-horiuchi"
+      },
+      {
+        "name": "松本 良之",
+        "major": "ディスティングイッシュト バイス プレジデント, アドバイザリ",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/yoshi-matsumoto"
+      },
+      {
+        "name": "亦賀 忠明",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/tadaaki-mataga"
+      },
+      {
+        "name": "矢野 薫",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/kaoru-yano"
+      },
+      {
+        "name": "ガレス ハーシェル",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/gareth-herschel"
+      },
+      {
+        "name": "川辺 謙介",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/kensuke-kawabe"
+      },
+      {
+        "name": "藤原 恒夫",
+        "major": "バイス プレジデント, アナリスト兼Gartnerフェロー",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/tsuneo-fujiwara"
+      },
+      {
+        "name": "一志 達也",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/tatsuya-ichishi"
+      },
+      {
+        "name": "エリック ブレテヌー",
+        "major": "ディスティングイッシュト バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/erick-brethenoux"
+      },
+      {
+        "name": "メロディ チエン",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/melody-chien"
+      },
+      {
+        "name": "ケビン ギャバード",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/kevin-gabbard"
+      },
+      {
+        "name": "シンユウ グ",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/xingyu-gu"
+      },
+      {
+        "name": "ジュリアン サン",
+        "major": "シニア ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/julian-sun"
+      },
+      {
+        "name": "ベン ヤン",
+        "major": "ディレクター, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/ben-yan"
+      },
+      {
+        "name": "エティシャム ザイディ",
+        "major": "バイス プレジデント, アナリスト",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/ehtisham-zaidi"
+      },
+      {
+        "name": "阿部 泰二",
+        "major": "エグゼクティブ パートナー (ガートナー エグゼクティブ プログラム）",
+        "bio_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/jp/conferences/apac/data-analytics-japan/speakers/featured-speakers/taiji-abe"
+      }
+    ],
+    "timeline": {
+      "link_detail": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/agenda/day",
+      "agenda_days": [
+        { "day": "開催日 1 / 2024年5月21日（火）" },
+        { "day": "開催日 2 / 2024年5月22日（水）" },
+        { "day": "開催日 3 / 2024年5月23日（木）" }
+      ]
+    },
+    "track": [
+      { "track_title": "トラックA：ビジネス価値とリーダーシップ" },
+      { "track_title": "トラックB：アナリティクスとAI" },
+      { "track_title": "トラックC：データ管理" },
+      { "track_title": "トラックD：信頼、ガバナンス、組織文化" }
+    ],
+    "register_url": "https://www.gartner.com/jp/conferences/apac/data-analytics-japan/register"
+  }
 ]
