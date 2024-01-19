@@ -37,9 +37,9 @@ jobs:
     - name: Test with pytest
       run: |
         # pytest
-    - name: Install Scrapy
+    - name: Install Scrapy and Firebase-admin
       run: |
-        pip install scrapy
+        pip install scrapy; pip install firebase-admin
     - name: Run Scrapy Spider
       run: |
         scrapy crawl conferences
