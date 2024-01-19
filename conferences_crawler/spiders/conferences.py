@@ -18,7 +18,9 @@ class Item:
     region = scrapy.Field()
     url = scrapy.Field()
     speakers = scrapy.Field()
-    agenda = scrapy.Field()
+    timeline = scrapy.Field()
+    register_url = scrapy.Field()
+    track = scrapy.Field()
 
 class ConferencesSpider(scrapy.Spider):
     name = "conferences"
@@ -44,15 +46,20 @@ class ConferencesSpider(scrapy.Spider):
 
     def parse_conf(self, response):
         item = response.meta['item']
-        first_featured_container = response.css("div.featured-container").get()
-        speakers = first_featured_container.xpath("div[@class='speaker']")
+
+        item.register_url = item.url + "/register"
+
+        first_featured_container = response.css("div.featured-container")[0]
+        speakers = first_featured_container.css("div.member")
         list_speakers = []
         for speaker in speakers:
             name = speaker.css("div.headline h4::text").get()
             major = speaker.css("div.jobTitle::text").get()
-            list_speakers.append({"name": name, "major": major})
+            bio_detail = item.url + speaker.xpath("a /@href").get()
 
-        item.speakers = first_featured_container
+            list_speakers.append({"name": name, "major": major, "bio_detail": bio_detail})
+
+        item.speakers = list_speakers
 
         yield response.follow(item.url + "/agenda/day", self.parse_agenda, meta={'item': item})
 
@@ -60,14 +67,33 @@ class ConferencesSpider(scrapy.Spider):
     def parse_agenda(self, response):
         item = response.meta['item']
         agenda_days = []
-        days_panel = response.xpath("//div[@class='panel']")
+        link_detail = response.url
+        days_panel = response.css("div.agenda-panel-heading")
         for day in days_panel:
-            day_detail = day.xpath("div[@class='agenda-panel-heading-text']/h2/text()").get()
-            link_detail = day.xpath("div[@class='panel-heading']/@href").get()
-            agenda_days.append({"day": day_detail, "link": link_detail})
+            day_detail = day.css("a h2::text").get()
+            agenda_days.append({"day": day_detail})
 
-        item.agenda = days_panel
+        item.timeline = {
+            "link_detail": link_detail,
+            "agenda_days": agenda_days
+        }
+
+        yield response.follow(item.url + "/agenda", self.parse_tracks, meta={'item': item})
+
+    
+    def parse_tracks(self, response):
+        item = response.meta['item']
+
+        list_tracks = []
+
+        tracks_panel = response.css("div.agenda-panel-heading")
+        for track in tracks_panel:
+            track_title = track.css("a h2::text").get()
+            list_tracks.append({"track_title": track_title})
+
+        item.track = list_tracks
             
+
         yield {
             "name": item.title,
             "start_date": item.start_date,
@@ -76,7 +102,9 @@ class ConferencesSpider(scrapy.Spider):
             "region": item.region,
             "url": item.url,
             "speakers": item.speakers,
-            "agenda": item.agenda
+            "timeline": item.timeline,
+            "track": item.track,
+            "register_url": item.register_url,
         }
 
         
