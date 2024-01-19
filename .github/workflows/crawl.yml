@@ -37,6 +37,9 @@ jobs:
     - name: Test with pytest
       run: |
         # pytest
+    - name: Install Scrapy
+      run: |
+        pip install scrapy
     - name: Run Scrapy Spider
       run: |
         scrapy crawl conferences
