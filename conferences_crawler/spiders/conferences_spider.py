@@ -1,5 +1,11 @@
 import scrapy
 
+import firebase_admin
+from firebase_admin import db
+from firebase_admin import credentials
+
+import json
+from conferences_crawler.utils import Utils
 
 roles = [
     "Application & Software Engineering",
@@ -27,6 +33,17 @@ class ConferencesSpider(scrapy.Spider):
     start_urls = [
         "https://www.gartner.com/en/conferences/calendar",
     ]
+
+
+    # init firebase and connect to database
+    cred = credentials.Certificate("../conferences-crawler-firebase-adminsdk-181yi-4cbb903707.json")
+    firebase_app = firebase_admin.initialize_app(cred, {
+            'databaseURL': 'https://conferences-crawler-default-rtdb.asia-southeast1.firebasedatabase.app/'
+    })
+
+    ref = db.reference('conferences')
+
+
 
     def parse(self, response):
         for conf in response.css("div.conference-tile a"):
@@ -94,7 +111,7 @@ class ConferencesSpider(scrapy.Spider):
         item.track = list_tracks
             
 
-        yield {
+        item_json = {
             "name": item.title,
             "start_date": item.start_date,
             "location": item.location,
@@ -107,6 +124,12 @@ class ConferencesSpider(scrapy.Spider):
             "register_url": item.register_url,
         }
 
+        yield item_json
+
+        # Tạo id cho item
+        uid = Utils.generateUID(item.url)
+        # Ghi từng item vào Firebase db với node có id là uid
+        self.ref.child(uid).set(item_json)
         
 
 
