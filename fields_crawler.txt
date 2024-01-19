@@ -1,0 +1,32 @@
+Thông tin hội nghị:
+1. Tên hội nghị
+2. Mốc deadline - important dates
+3. Ngày diễn ra
+4. Địa điểm 
+5. Chủ đề
+
+Các thông tin mở rộng:
+1. Danh sách diễn giả
+2. Các bài báo đã được chấp nhận
+3. Thông tin liên quan đăng ký tham dự
+
+
+Danh sách website:
+
+https://infosec-conferences.com/
+
+https://iraj.in/
+http://worldresearchsociety.com
+http://eurasiaweb.com/
+https://researchworld.org/
+https://sarc.net.in
+
+https://dl.acm.org/conferences
+https://ccfddl.github.io/
+https://www.lix.polytechnique.fr/~hermann/conf.php
+https://www.allconferencealert.com/computing.html
+https://www.conferencealerts.org/computer-software-and-applications.php
+https://research.com/upcoming-conferences/computer-science
+https://www.computer.org/conferences/top-computer-science-events
+
+
