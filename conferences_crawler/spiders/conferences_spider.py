@@ -7,6 +7,10 @@ from firebase_admin import credentials
 import json
 from conferences_crawler.utils import Utils
 
+import os
+
+# ------------------------------------------------------------
+
 roles = [
     "Application & Software Engineering",
     "CIOs & IT Executives",
@@ -36,7 +40,10 @@ class ConferencesSpider(scrapy.Spider):
 
 
     # init firebase and connect to database
-    cred = credentials.Certificate("../conferences-crawler-firebase-adminsdk-181yi-4cbb903707.json")
+    current_dir = os.path.dirname(os.path.realpath(__file__))
+    json_file_path = os.path.join(current_dir, "../conferences-crawler-firebase-adminsdk-181yi-4cbb903707.json")
+
+    cred = credentials.Certificate(json_file_path)
     firebase_app = firebase_admin.initialize_app(cred, {
             'databaseURL': 'https://conferences-crawler-default-rtdb.asia-southeast1.firebasedatabase.app/'
     })
