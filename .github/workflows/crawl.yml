@@ -8,6 +8,9 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  schedule:
+    - cron: '0 0 * * *' # Chạy mỗi ngày lúc 00:00
+
 
 permissions:
   contents: read
